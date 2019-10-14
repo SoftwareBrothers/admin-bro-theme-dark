@@ -1,0 +1,8 @@
+{
+  "name": "admin-bro-theme-dark",
+  "version": "1.0.0",
+  "description": "Dark theme for AdminBro",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Wojciech Krysiak"
+}

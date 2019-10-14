@@ -1,0 +1,11 @@
+.nyc_output
+.DS_store
+.vscode
+.idea
+.cache
+lib
+built
+
+coverage
+
+node_modules
