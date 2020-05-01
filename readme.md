@@ -1,4 +1,4 @@
-## Warning - this theme only works for v1.6 of AdminBro (it hasn't been updated yet)
+## Warning - this theme only works with AdminBro v1.6 (it hasn't been updated yet)
 
 ## Dark Theme for AdminBro
 
